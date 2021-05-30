@@ -2,10 +2,6 @@
 Flutter app with diferents components(ListView, ListTiles, InfiniteScroll,...)
 
 
-# contador
-
-A new Flutter project .
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
